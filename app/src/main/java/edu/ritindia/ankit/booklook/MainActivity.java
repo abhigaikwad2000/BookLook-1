@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
                 = new ColorDrawable(Color.parseColor("#4fc3f7"));
         actionBar.setBackgroundDrawable(colorDrawable);
 
-/////hii ankit testing github integration with anderoid stdiofdf
+/////hii ankit testing github integration with anderoid stdiofdf//
 
     }
     @Override
